@@ -1,0 +1,1 @@
+# sct-clima-android
